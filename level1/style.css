@@ -1,4 +1,4 @@
-body{
+/* body{
   overflow-x: hidden;
 }
 li{
@@ -16,7 +16,7 @@ button{
   height: 40px;
   width: 100px;
   margin-top: 15px;
-  margin-left: 30px;
+  margin-left: 20px;
   border: 1px solid rgb(216,215,213);
   border-radius: 20px;
   padding: 10px;
@@ -437,6 +437,9 @@ placeholder{
   font-size: 20px;
   display: flex;
 }
+footer:hover{
+  cursor: pointer;
+}
 #part1{
   margin-left: 20px;
 }
@@ -484,4 +487,4 @@ placeholder{
   border-radius: 1px;
   position: fixed;
   bottom: 0;
-}
+} */
